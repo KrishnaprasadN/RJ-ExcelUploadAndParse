@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This app uses <input> tag to browse the excel file and 'read-excel-file' library to parse the excel content from the uploaded file. https://www.npmjs.com/package/read-excel-file.
 
 ## Available Scripts
 

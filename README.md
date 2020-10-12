@@ -1,4 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a POC project which basically parses the excel content and displayes in  console log.
+
+It uses 2 approaches for parsing. 2 seperate packages are used for POC.
+
+1) Read Excel File - https://www.npmjs.com/package/read-excel-file
+2) Xlxs - https://www.npmjs.com/package/xlsx
+
+Xlxs package has better options. It has good util methods to direct conver the parsed data to CSV, JSON and text.
 
 ## Available Scripts
 
